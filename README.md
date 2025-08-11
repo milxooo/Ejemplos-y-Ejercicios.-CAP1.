@@ -1,1 +1,1 @@
-Dentro de cada carpeta esa su respectivo archivo readme.txt
+Dentro de cada carpeta esta su respectivo archivo readme.txt
